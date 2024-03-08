@@ -3,7 +3,7 @@
 ## The eyes seem to follow the mouse
 
 ### How to Run
-- Open    in a browser
+- Open https://justinfilip.github.io/Eye-Exercise/ in a browser
 
 ### Improvements made so far
 
