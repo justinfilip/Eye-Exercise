@@ -1,6 +1,6 @@
 # Eye-Exercise
 
-### The eyes seem to follow the mouse
+### Move your mouse around the screen and watch the eyes follow it. Eyes are updated one after another on each detected movement of the mouse.
 
 ## How to Run
 - Open https://justinfilip.github.io/Eye-Exercise/ in a browser
