@@ -1,16 +1,21 @@
 # Eye-Exercise
 
-## The eyes seem to follow the mouse
+### The eyes seem to follow the mouse
 
-### How to Run
+## How to Run
 - Open https://justinfilip.github.io/Eye-Exercise/ in a browser
 
-### Improvements made so far
+## Improvements made so far
 
 - Added a second eye to the page
 - Modified the mouse tracking function to support multiple eyes
 
-### License
+## Roadmap of future improvements
+
+- Make the eyes blink when the mouse is clicked
+- Make the eyes close half way when the user is inactive for more than 30 seconds
+
+## License
 MIT License
 
 Copyright (c) 2024 Justin Filip
